@@ -1,0 +1,17 @@
+c:\Users\машимовн.corp\source\repos\HotelApp\Hotel.Models\bin\Debug\Hotel.Models.dll.config
+c:\Users\машимовн.corp\source\repos\HotelApp\Hotel.Models\bin\Debug\Hotel.Models.dll
+c:\Users\машимовн.corp\source\repos\HotelApp\Hotel.Models\bin\Debug\Hotel.Models.pdb
+c:\Users\машимовн.corp\source\repos\HotelApp\Hotel.Models\bin\Debug\Microsoft.IdentityModel.Logging.dll
+c:\Users\машимовн.corp\source\repos\HotelApp\Hotel.Models\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+c:\Users\машимовн.corp\source\repos\HotelApp\Hotel.Models\bin\Debug\Newtonsoft.Json.dll
+c:\Users\машимовн.corp\source\repos\HotelApp\Hotel.Models\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+c:\Users\машимовн.corp\source\repos\HotelApp\Hotel.Models\bin\Debug\Twilio.dll
+c:\Users\машимовн.corp\source\repos\HotelApp\Hotel.Models\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+c:\Users\машимовн.corp\source\repos\HotelApp\Hotel.Models\bin\Debug\Newtonsoft.Json.xml
+c:\Users\машимовн.corp\source\repos\HotelApp\Hotel.Models\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+c:\Users\машимовн.corp\source\repos\HotelApp\Hotel.Models\bin\Debug\Twilio.xml
+c:\Users\машимовн.corp\source\repos\HotelApp\Hotel.Models\obj\Debug\Hotel.Models.csprojAssemblyReference.cache
+c:\Users\машимовн.corp\source\repos\HotelApp\Hotel.Models\obj\Debug\Hotel.Models.csproj.CoreCompileInputs.cache
+c:\Users\машимовн.corp\source\repos\HotelApp\Hotel.Models\obj\Debug\Hotel.Models.csproj.CopyComplete
+c:\Users\машимовн.corp\source\repos\HotelApp\Hotel.Models\obj\Debug\Hotel.Models.dll
+c:\Users\машимовн.corp\source\repos\HotelApp\Hotel.Models\obj\Debug\Hotel.Models.pdb
